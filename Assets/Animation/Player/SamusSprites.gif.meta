@@ -1,0 +1,5020 @@
+fileFormatVersion: 2
+guid: e63cd701959924ad693388a078926174
+timeCreated: 1478897958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SamusSprites_0
+    21300002: SamusSprites_1
+    21300004: SamusSprites_2
+    21300006: SamusSprites_3
+    21300008: SamusSprites_4
+    21300010: SamusSprites_5
+    21300012: SamusSprites_6
+    21300014: SamusSprites_7
+    21300016: SamusSprites_8
+    21300018: SamusSprites_9
+    21300020: SamusSprites_10
+    21300022: SamusSprites_11
+    21300024: SamusSprites_12
+    21300026: SamusSprites_13
+    21300028: SamusSprites_14
+    21300030: SamusSprites_15
+    21300032: SamusSprites_16
+    21300034: SamusSprites_17
+    21300036: SamusSprites_18
+    21300038: SamusSprites_19
+    21300040: SamusSprites_20
+    21300042: SamusSprites_21
+    21300044: SamusSprites_22
+    21300046: SamusSprites_23
+    21300048: SamusSprites_24
+    21300050: SamusSprites_25
+    21300052: SamusSprites_26
+    21300054: SamusSprites_27
+    21300056: SamusSprites_28
+    21300058: SamusSprites_29
+    21300060: SamusSprites_30
+    21300062: SamusSprites_31
+    21300064: SamusSprites_32
+    21300066: SamusSprites_33
+    21300068: SamusSprites_34
+    21300070: SamusSprites_35
+    21300072: SamusSprites_36
+    21300074: SamusSprites_37
+    21300076: SamusSprites_38
+    21300078: SamusSprites_39
+    21300080: SamusSprites_40
+    21300082: SamusSprites_41
+    21300084: SamusSprites_42
+    21300086: SamusSprites_43
+    21300088: SamusSprites_44
+    21300090: SamusSprites_45
+    21300092: SamusSprites_46
+    21300094: SamusSprites_47
+    21300096: SamusSprites_48
+    21300098: SamusSprites_49
+    21300100: SamusSprites_50
+    21300102: SamusSprites_51
+    21300104: SamusSprites_52
+    21300106: SamusSprites_53
+    21300108: SamusSprites_54
+    21300110: SamusSprites_55
+    21300112: SamusSprites_56
+    21300114: SamusSprites_57
+    21300116: SamusSprites_58
+    21300118: SamusSprites_59
+    21300120: SamusSprites_60
+    21300122: SamusSprites_61
+    21300124: SamusSprites_62
+    21300126: SamusSprites_63
+    21300128: SamusSprites_64
+    21300130: SamusSprites_65
+    21300132: SamusSprites_66
+    21300134: SamusSprites_67
+    21300136: SamusSprites_68
+    21300138: SamusSprites_69
+    21300140: SamusSprites_70
+    21300142: SamusSprites_71
+    21300144: SamusSprites_72
+    21300146: SamusSprites_73
+    21300148: SamusSprites_74
+    21300150: SamusSprites_75
+    21300152: SamusSprites_76
+    21300154: SamusSprites_77
+    21300156: SamusSprites_78
+    21300158: SamusSprites_79
+    21300160: SamusSprites_80
+    21300162: SamusSprites_81
+    21300164: SamusSprites_82
+    21300166: SamusSprites_83
+    21300168: SamusSprites_84
+    21300170: SamusSprites_85
+    21300172: SamusSprites_86
+    21300174: SamusSprites_87
+    21300176: SamusSprites_88
+    21300178: SamusSprites_89
+    21300180: SamusSprites_90
+    21300182: SamusSprites_91
+    21300184: SamusSprites_92
+    21300186: SamusSprites_93
+    21300188: SamusSprites_94
+    21300190: SamusSprites_95
+    21300192: SamusSprites_96
+    21300194: SamusSprites_97
+    21300196: SamusSprites_98
+    21300198: SamusSprites_99
+    21300200: SamusSprites_100
+    21300202: SamusSprites_101
+    21300204: SamusSprites_102
+    21300206: SamusSprites_103
+    21300208: SamusSprites_104
+    21300210: SamusSprites_105
+    21300212: SamusSprites_106
+    21300214: SamusSprites_107
+    21300216: SamusSprites_108
+    21300218: SamusSprites_109
+    21300220: SamusSprites_110
+    21300222: SamusSprites_111
+    21300224: SamusSprites_112
+    21300226: SamusSprites_113
+    21300228: SamusSprites_114
+    21300230: SamusSprites_115
+    21300232: SamusSprites_116
+    21300234: SamusSprites_117
+    21300236: SamusSprites_118
+    21300238: SamusSprites_119
+    21300240: SamusSprites_120
+    21300242: SamusSprites_121
+    21300244: SamusSprites_122
+    21300246: SamusSprites_123
+    21300248: SamusSprites_124
+    21300250: SamusSprites_125
+    21300252: SamusSprites_126
+    21300254: SamusSprites_127
+    21300256: SamusSprites_128
+    21300258: SamusSprites_129
+    21300260: SamusSprites_130
+    21300262: SamusSprites_131
+    21300264: SamusSprites_132
+    21300266: SamusSprites_133
+    21300268: SamusSprites_134
+    21300270: SamusSprites_135
+    21300272: SamusSprites_136
+    21300274: SamusSprites_137
+    21300276: SamusSprites_138
+    21300278: SamusSprites_139
+    21300280: SamusSprites_140
+    21300282: SamusSprites_141
+    21300284: SamusSprites_142
+    21300286: SamusSprites_143
+    21300288: SamusSprites_144
+    21300290: SamusSprites_145
+    21300292: SamusSprites_146
+    21300294: SamusSprites_147
+    21300296: SamusSprites_148
+    21300298: SamusSprites_149
+    21300300: SamusSprites_150
+    21300302: SamusSprites_151
+    21300304: SamusSprites_152
+    21300306: SamusSprites_153
+    21300308: SamusSprites_154
+    21300310: SamusSprites_155
+    21300312: SamusSprites_156
+    21300314: SamusSprites_157
+    21300316: SamusSprites_158
+    21300318: SamusSprites_159
+    21300320: SamusSprites_160
+    21300322: SamusSprites_161
+    21300324: SamusSprites_162
+    21300326: SamusSprites_163
+    21300328: SamusSprites_164
+    21300330: SamusSprites_165
+    21300332: SamusSprites_166
+    21300334: SamusSprites_167
+    21300336: SamusSprites_168
+    21300338: SamusSprites_169
+    21300340: SamusSprites_170
+    21300342: SamusSprites_171
+    21300344: SamusSprites_172
+    21300346: SamusSprites_173
+    21300348: SamusSprites_174
+    21300350: SamusSprites_175
+    21300352: SamusSprites_176
+    21300354: SamusSprites_177
+    21300356: SamusSprites_178
+    21300358: SamusSprites_179
+    21300360: SamusSprites_180
+    21300362: SamusSprites_181
+    21300364: SamusSprites_182
+    21300366: SamusSprites_183
+    21300368: SamusSprites_184
+    21300370: SamusSprites_185
+    21300372: SamusSprites_186
+    21300374: SamusSprites_187
+    21300376: SamusSprites_188
+    21300378: SamusSprites_189
+    21300380: SamusSprites_190
+    21300382: SamusSprites_191
+    21300384: SamusSprites_192
+    21300386: SamusSprites_193
+    21300388: SamusSprites_194
+    21300390: SamusSprites_195
+    21300392: SamusSprites_196
+    21300394: SamusSprites_197
+    21300396: SamusSprites_198
+    21300398: SamusSprites_199
+    21300400: SamusSprites_200
+    21300402: SamusSprites_201
+    21300404: SamusSprites_202
+    21300406: SamusSprites_203
+    21300408: SamusSprites_204
+    21300410: SamusSprites_205
+    21300412: SamusSprites_206
+    21300414: SamusSprites_207
+    21300416: SamusSprites_208
+    21300418: SamusSprites_209
+    21300420: SamusSprites_210
+    21300422: SamusSprites_211
+    21300424: SamusSprites_212
+    21300426: SamusSprites_213
+    21300428: SamusSprites_214
+    21300430: SamusSprites_215
+    21300432: SamusSprites_216
+    21300434: SamusSprites_217
+    21300436: SamusSprites_218
+    21300438: SamusSprites_219
+    21300440: SamusSprites_220
+    21300442: SamusSprites_221
+    21300444: SamusSprites_222
+    21300446: SamusSprites_223
+    21300448: SamusSprites_224
+    21300450: SamusSprites_225
+    21300452: SamusSprites_226
+    21300454: SamusSprites_227
+    21300456: SamusSprites_228
+    21300458: SamusSprites_229
+    21300460: SamusSprites_230
+    21300462: SamusSprites_231
+    21300464: SamusSprites_232
+    21300466: SamusSprites_233
+    21300468: SamusSprites_234
+    21300470: SamusSprites_235
+    21300472: SamusSprites_236
+    21300474: SamusSprites_237
+    21300476: SamusSprites_238
+    21300478: SamusSprites_239
+    21300480: SamusSprites_240
+    21300482: SamusSprites_241
+    21300484: SamusSprites_242
+    21300486: SamusSprites_243
+    21300488: SamusSprites_244
+    21300490: SamusSprites_245
+    21300492: SamusSprites_246
+    21300494: SamusSprites_247
+    21300496: SamusSprites_248
+    21300498: SamusSprites_249
+    21300500: SamusSprites_250
+    21300502: SamusSprites_251
+    21300504: SamusSprites_252
+    21300506: SamusSprites_253
+    21300508: SamusSprites_254
+    21300510: SamusSprites_255
+    21300512: SamusSprites_256
+    21300514: SamusSprites_257
+    21300516: SamusSprites_258
+    21300518: SamusSprites_259
+    21300520: SamusSprites_260
+    21300522: SamusSprites_261
+    21300524: SamusSprites_262
+    21300526: SamusSprites_263
+    21300528: SamusSprites_264
+    21300530: SamusSprites_265
+    21300532: SamusSprites_266
+    21300534: SamusSprites_267
+    21300536: SamusSprites_268
+    21300538: SamusSprites_269
+    21300540: SamusSprites_270
+    21300542: SamusSprites_271
+    21300544: SamusSprites_272
+    21300546: SamusSprites_273
+    21300548: SamusSprites_274
+    21300550: SamusSprites_275
+    21300552: SamusSprites_276
+    21300554: SamusSprites_277
+    21300556: SamusSprites_278
+    21300558: SamusSprites_279
+    21300560: SamusSprites_280
+    21300562: SamusSprites_281
+    21300564: SamusSprites_282
+    21300566: SamusSprites_283
+    21300568: SamusSprites_284
+    21300570: SamusSprites_285
+    21300572: SamusSprites_286
+    21300574: SamusSprites_287
+    21300576: SamusSprites_288
+    21300578: SamusSprites_289
+    21300580: SamusSprites_290
+    21300582: SamusSprites_291
+    21300584: SamusSprites_292
+    21300586: SamusSprites_293
+    21300588: SamusSprites_294
+    21300590: SamusSprites_295
+    21300592: SamusSprites_296
+    21300594: SamusSprites_297
+    21300596: SamusSprites_298
+    21300598: SamusSprites_299
+    21300600: SamusSprites_300
+    21300602: SamusSprites_301
+    21300604: SamusSprites_302
+    21300606: SamusSprites_303
+    21300608: SamusSprites_304
+    21300610: SamusSprites_305
+    21300612: SamusSprites_306
+    21300614: SamusSprites_307
+    21300616: SamusSprites_308
+    21300618: SamusSprites_309
+    21300620: SamusSprites_310
+    21300622: SamusSprites_311
+    21300624: SamusSprites_312
+    21300626: SamusSprites_313
+    21300628: SamusSprites_314
+    21300630: SamusSprites_315
+    21300632: SamusSprites_316
+    21300634: SamusSprites_317
+    21300636: SamusSprites_318
+    21300638: SamusSprites_319
+    21300640: SamusSprites_320
+    21300642: SamusSprites_321
+    21300644: SamusSprites_322
+    21300646: SamusSprites_323
+    21300648: SamusSprites_324
+    21300650: SamusSprites_325
+    21300652: SamusSprites_326
+    21300654: SamusSprites_327
+    21300656: SamusSprites_328
+    21300658: SamusSprites_329
+    21300660: SamusSprites_330
+    21300662: SamusSprites_331
+    21300664: SamusSprites_332
+    21300666: SamusSprites_333
+    21300668: SamusSprites_334
+    21300670: SamusSprites_335
+    21300672: SamusSprites_336
+    21300674: SamusSprites_337
+    21300676: SamusSprites_338
+    21300678: SamusSprites_339
+    21300680: SamusSprites_340
+    21300682: SamusSprites_341
+    21300684: SamusSprites_342
+    21300686: SamusSprites_343
+    21300688: SamusSprites_344
+    21300690: SamusSprites_345
+    21300692: SamusSprites_346
+    21300694: SamusSprites_347
+    21300696: SamusSprites_348
+    21300698: SamusSprites_349
+    21300700: SamusSprites_350
+    21300702: SamusSprites_351
+    21300704: SamusSprites_352
+    21300706: SamusSprites_353
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SamusSprites_0
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 750
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 753
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 741
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 709
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 709
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 709
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 713
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 739
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 713
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 713
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 713
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_11
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 713
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 713
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 709
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 709
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 709
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 709
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 709
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 709
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 709
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 709
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 733
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 735
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 731
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_24
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 731
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_25
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 731
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_26
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 714
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_27
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 714
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_28
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 714
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_29
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 714
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_30
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 714
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_31
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 714
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_32
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 714
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_33
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 714
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_34
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 713
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_35
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 714
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_36
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 714
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_37
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 714
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 724
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 724
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 724
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_41
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 714
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_42
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 714
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_43
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 713
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_44
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 714
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 712
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_46
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 712
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 712
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_48
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 711
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_49
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 714
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 655
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 655
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 655
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 655
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_55
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_57
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 655
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 655
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_59
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_60
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_61
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 653
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_63
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 653
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_64
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 653
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_65
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 653
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_66
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 653
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_67
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 653
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_68
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 653
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_69
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 653
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_70
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 653
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_71
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 653
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_72
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 614
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 591
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_74
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 591
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 591
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_76
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 594
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_77
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 594
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 594
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_79
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 594
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_80
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 594
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_81
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_82
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_83
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_84
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 594
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_85
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 594
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_86
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_87
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_88
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_89
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 601
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_90
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 601
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_91
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 602
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_92
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 602
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_93
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 602
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_94
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 602
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_95
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 602
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_96
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 601
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_97
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 600
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_98
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 538
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 538
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_100
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 538
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_101
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 538
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_102
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 538
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_103
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 538
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_104
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 538
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_105
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 538
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_106
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 538
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_107
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 538
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_108
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 538
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 538
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_110
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 528
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_111
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 528
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_112
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 528
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_113
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_114
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_115
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_116
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_117
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_118
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 543
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_119
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 543
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_120
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 550
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_121
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 550
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_122
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_123
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_124
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_125
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 552
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_126
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 551
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_127
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 551
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_128
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 551
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_129
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 552
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_130
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 552
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_131
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 552
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_132
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 552
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_133
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 552
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_134
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 552
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_135
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 552
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_136
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 552
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_137
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 552
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_138
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 552
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 476
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_140
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 476
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_141
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 476
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_142
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 476
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_143
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 476
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_144
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 476
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_145
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 476
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 476
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_147
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 476
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_148
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 476
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_149
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 476
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 476
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_151
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 476
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_152
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 476
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_153
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 476
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_154
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 476
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_155
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 476
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_156
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 476
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_157
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 476
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_158
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 476
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_159
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 465
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_160
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 465
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_161
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 465
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_162
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 465
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_163
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 465
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_164
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 465
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_165
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 465
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_166
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 465
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_167
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 465
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_168
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 465
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_169
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 465
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_170
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 465
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_171
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 465
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_172
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 415
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_173
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 415
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_174
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 415
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_175
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 415
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_176
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 415
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_177
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 415
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_178
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 415
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_179
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 415
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_180
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 415
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_181
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 415
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_182
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 415
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_183
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 415
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_184
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 415
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_185
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 415
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_186
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 415
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_187
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 415
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_188
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 415
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_189
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 415
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_190
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 415
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_191
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 415
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_192
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 406
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_193
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 406
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_194
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 406
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_195
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 406
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_196
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 407
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_197
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 407
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_198
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 407
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_199
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 407
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_200
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 407
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_201
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 407
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_202
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 407
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_203
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 407
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_204
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 407
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_205
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 354
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_206
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 354
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_207
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 354
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_208
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 354
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_209
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 354
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_210
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 354
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_211
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 354
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_212
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 354
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_213
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 354
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_214
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 354
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_215
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 354
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_216
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 354
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_217
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 354
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_218
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 354
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_219
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 354
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_220
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 354
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_221
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 354
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_222
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 354
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_223
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 354
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_224
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 354
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_225
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 350
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_226
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 350
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_227
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 350
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_228
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 350
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_229
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 350
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_230
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 350
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_231
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 350
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_232
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 350
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_233
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 350
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_234
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 350
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_235
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 350
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_236
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 350
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_237
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 350
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_238
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 298
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_239
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 298
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_240
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 298
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_241
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 298
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_242
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 298
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_243
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 298
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_244
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 298
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_245
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 298
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_246
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 298
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_247
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 298
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_248
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 298
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_249
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 298
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_250
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 298
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_251
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 298
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_252
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 298
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_253
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 298
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_254
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 298
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_255
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 298
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_256
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 298
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_257
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 298
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_258
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 291
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_259
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 291
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_260
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 291
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_261
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 291
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_262
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 291
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_263
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 291
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_264
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 291
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_265
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 291
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_266
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 291
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_267
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 291
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_268
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 291
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_269
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 291
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_270
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 291
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_271
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 237
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_272
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 237
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_273
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 237
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_274
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 237
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_275
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 237
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_276
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 237
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_277
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 237
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_278
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 237
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_279
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 237
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_280
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 237
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_281
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 239
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_282
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 237
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_283
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 237
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_284
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 237
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_285
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 217
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_286
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 217
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_287
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 217
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_288
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 216
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_289
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 216
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_290
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 216
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_291
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 216
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_292
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 216
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_293
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 216
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_294
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 216
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_295
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 216
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_296
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 216
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_297
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 216
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_298
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 179
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_299
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 179
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_300
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 179
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_301
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 179
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_302
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 179
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_303
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 179
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_304
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 179
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_305
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 179
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_306
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 179
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_307
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 179
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_308
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 179
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_309
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 179
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_310
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 179
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_311
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 179
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_312
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 151
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_313
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 151
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_314
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 151
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_315
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 151
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_316
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 151
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_317
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 151
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_318
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 151
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_319
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 151
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_320
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 151
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_321
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 151
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_322
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 151
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_323
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 151
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_324
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 151
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_325
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_326
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 130
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_327
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 130
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_328
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 130
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_329
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 130
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_330
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 130
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_331
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 130
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_332
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 130
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_333
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 130
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_334
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 130
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_335
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 130
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_336
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 130
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_337
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 130
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_338
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 130
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_339
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 67
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_340
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 67
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_341
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_342
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 67
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_343
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 67
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_344
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 67
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_345
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 67
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_346
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 67
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_347
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 67
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_348
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 67
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_349
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 72
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_350
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 67
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_351
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 67
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_352
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 67
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SamusSprites_353
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1300
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

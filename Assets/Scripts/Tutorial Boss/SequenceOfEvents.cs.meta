@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 40912ffe52c1f5f499065b6b28d1d66c
+timeCreated: 1480438658
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - textBoxManager: {instanceID: 0}
+  - spaceGun: {instanceID: 0}
+  - Boss: {instanceID: 0}
+  - theCamera: {instanceID: 0}
+  - missile: {instanceID: 0}
+  - bomb: {instanceID: 0}
+  - ceiling1: {instanceID: 0}
+  - ceiling2: {instanceID: 0}
+  - ceiling3: {instanceID: 0}
+  - litWall: {instanceID: 0}
+  - ground: {instanceID: 0}
+  - extendedBackground: {instanceID: 0}
+  - PointA: {instanceID: 0}
+  - PointB: {instanceID: 0}
+  - BossShield: {instanceID: 0}
+  - Buttons: {instanceID: 0}
+  - leftButton: {instanceID: 0}
+  - rightButton: {instanceID: 0}
+  - Pillar: {instanceID: 0}
+  - fistWarning: {instanceID: 0}
+  - fistHitbox: {instanceID: 0}
+  - TractorBeam: {instanceID: 0}
+  - pillarWeakspot: {instanceID: 0}
+  - theText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

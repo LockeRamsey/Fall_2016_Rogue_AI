@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 1b5ead2328d5b44d58079a8c862f5b0e
+timeCreated: 1479314998
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shinesparkSprites_0
+    21300002: shinesparkSprites_1
+    21300004: shinesparkSprites_2
+    21300006: shinesparkSprites_3
+    21300008: shinesparkSprites_4
+    21300010: shinesparkSprites_5
+    21300012: shinesparkSprites_6
+    21300014: shinesparkSprites_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shinesparkSprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 46
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shinesparkSprites_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40.5
+        width: 44.25
+        height: 40.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shinesparkSprites_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40.5
+        width: 44.25
+        height: 40.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shinesparkSprites_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40.5
+        width: 44.25
+        height: 40.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shinesparkSprites_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shinesparkSprites_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0.5
+        width: 44.25
+        height: 40.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shinesparkSprites_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0.5
+        width: 44.25
+        height: 40.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shinesparkSprites_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0.5
+        width: 44.25
+        height: 40.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

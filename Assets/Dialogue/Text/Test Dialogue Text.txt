@@ -1,0 +1,41 @@
+Unknown Specimen detected. (Press Space while text is up to continue)
+Comply or you shall be destroyed. (Press Space during text scroll to skip scrolling)
+Move to the left.
+
+Correct action.
+Now move to the right.
+
+Incorrect action.
+
+Correct action.
+Now initiate a vertical jump.
+
+Basic Movement tutorial complete.
+Now you must learn to defend yourself.
+
+Pick up the basic gun by pressing 'Enter'.
+
+With the gun in hand, press 'J' to shoot.
+Hold 'K' before shooting to shoot diagonally up.
+
+Attacking me is ill-advised. Do not attempt to repeat.
+
+Security Protocols will be engaged if you continue.
+
+Setting Security Protocols on standby for retaliation.
+This is your final warning.
+
+INITIATING SECURITY PROTOCOL - DEFENSE LASER MECHANISM
+
+Phase 1 of Security Protocol unsuccessful. 
+Initiating Phase 2.
+
+Bombs have proven to be ineffective. Crushing you should cause you to terminate.
+
+Security Protocols have failed. Commencing shut down. 
+
+HINT: Dodge oncoming attacks with a dash by using Left Shift!
+
+HINT: Avoid the missiles by double jumping! Press Space while in the air!
+
+HINT: Push a button by walljumping! Press Space while holding into a wall!
